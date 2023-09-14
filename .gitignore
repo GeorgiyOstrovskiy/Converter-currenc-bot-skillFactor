@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+[v.]env*/
+p*[23]*/
+build/
+develop-eggs/
+dist/
+test_run_data/
+report_data/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+.installed.cfg
+*.egg*/
+
+# IDEA
+.project
+.idea
+*.iml
+
+# virtualenv
+env
+.venv
+# PyTest
+.pytest_cache
+logs
+ptlogs
